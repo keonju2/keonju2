@@ -9,6 +9,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keonju2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keonju2)](https://github.com/keonju2/github-readme-stats)
 <!--
 **keonju2/keonju2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
