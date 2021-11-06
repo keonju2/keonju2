@@ -12,5 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keonju2&exclude_repo=gdsc-seoultech.github.io,keonju2.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{keonju2})
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={keonju2})](https://solved.ac/{keonju2})
